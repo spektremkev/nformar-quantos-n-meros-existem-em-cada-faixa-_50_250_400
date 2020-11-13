@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /* 
-atividade 2_quest„o 4
+atividade 2_quest√£o 4
 
 
 int main()<%
@@ -55,7 +55,7 @@ main() {
             printf("\nFaixa 2 = %d", f2);
             printf("\nFaixa 3 = %d",f3);
 }/*
-8main() {
+main() {
 	
  int x=-5,j=1;
  for (int i=0; i<= 3; i++){
